@@ -2,10 +2,10 @@
 ### Prerequisites :
 
 ##### Programming Language(PythonFundamentals,Pandas,Numpys)
-      Statistics
-      Probability
-      Linear Algebra
-      Calculus
+##### Statistics
+##### Probability
+##### Linear Algebra
+##### Calculus
 
 ### Project Description : 
 
