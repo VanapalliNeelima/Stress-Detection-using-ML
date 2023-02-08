@@ -1,4 +1,12 @@
 # Stress-Detection-using-ML
+### Prerequisites :
+
+##### Programming Language(PythonFundamentals,Pandas,Numpys)
+      Statistics
+      Probability
+      Linear Algebra
+      Calculus
+
 ### Project Description : 
 
 ##### Stress,tension, and misery are undermining the psychological well-being of individuals.Each individual has a justification behind having an unpleasant life. Individuals frequently discuss their thoughts via web-based entertainment stages like on Instagram as posts and stories, and on Reddit through requesting ideas about their life on Subreddits.In the beyond couple of years, many substance makers have approached to make content to assist individuals with their psychological wellness. Numerous associations can utilize pressure discovery to find which virtual entertainment clients are focused on to rapidly help them.
